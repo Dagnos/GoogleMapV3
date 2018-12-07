@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GoogleMapV3</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="lista_tipòs_mapas">
+        <item>None</item>
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+
+
+</resources>
